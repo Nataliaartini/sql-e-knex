@@ -1,6 +1,6 @@
 -- Seleciona a base de dados
 use base_de_dados;
--- Mostra as tabelas da base de dadose
+-- Mostra as tabelas da base de dados
 show tables;
 -- Descreve as colunas da tabela
 describe users;
